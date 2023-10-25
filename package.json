@@ -27,7 +27,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
     "@fortawesome/free-solid-svg-icons": "^5.15.2",
     "@types/express": "^4.17.11",
-    "crypto-js": "^4.0.0",
+    "crypto-js": "^4.2.0",
     "exceljs": "^4.2.0",
     "moment": "^2.29.1",
     "ngx-toastr": "^13.2.0",
